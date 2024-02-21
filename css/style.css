@@ -1,0 +1,147 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+nav {
+  background-color: #cc5830;
+  width: 100vw;
+  height: 100px;
+}
+
+li a {
+  width: 150px;
+  background-color: #ffc74d;
+  position: relative;
+  bottom: 105px;
+  left: 700px;
+  border-radius: 40px;
+  padding: 15px;
+  display: flex;
+  float: left;
+  margin: 10px;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+main {
+  background-color: #f9cd9e;
+  width: 100vw;
+}
+h1 {
+  width: 200px;
+  position: relative;
+  bottom: 55px;
+  left: 100px;
+  font-weight: bold;
+  background: linear-gradient(to top, #fde55a, #f95923);
+  color: transparent;
+  background-clip: text;
+}
+.emberfall-image {
+  width: 6%;
+  position: relative;
+  left: 20px;
+  top: 5px;
+}
+.emberfall-logo {
+  width: 40%;
+  position: relative;
+  right: 500px;
+  top: 150px;
+  border: 2px solid #cc5830;
+  border-radius: 20px;
+}
+.character-image {
+  width: 10%;
+  position: relative;
+  top: 275px;
+  right: 900px;
+}
+h2 {
+  width: 400px;
+  position: relative;
+  left: 900px;
+  bottom: 225px;
+  background-color: #cc5830;
+  padding: 20px;
+  border-radius: 20px;
+  border: 2px solid #cc5830;
+}
+.image {
+  width: 25%;
+}
+.image1 {
+  width: 40%;
+  position: relative;
+  top: 120px;
+}
+#three-images {
+  position: relative;
+  bottom: 200px;
+}
+
+.view-more {
+  position: relative;
+  padding-left: 300px;
+  bottom: 175px;
+}
+.team {
+  width: 40%;
+  padding-left: 30%;
+  padding-top: 200px;
+  padding-bottom: 80px;
+}
+footer {
+  width: 100vw;
+  height: 120px;
+  background-color: #cc5830;
+  display: flex;
+  justify-content: center;
+}
+.studios {
+  padding-top: 30px;
+}
+.home {
+  position: relative;
+  top: 70px;
+  right: 90px;
+  color: grey;
+  height: 30px;
+}
+.footer-home {
+  display: flex;
+  justify-content: center;
+}
+.view-button{
+  width: 20%;
+  padding-left: 300px;
+}
+.merchkopie{
+  position: relative;
+  width: 50%;
+  margin: 100px;
+left: 290px;
+}
+h4{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  font-weight: bold;
+  font-size: 40px;
+  margin: 10px;
+}
+.merchbox{
+border:#cc5830 solid 2px;
+position: relative;
+top: 50px;
+width: 200px;
+display: flex;
+justify-content: center;
+border-radius: 40px;
+left: 70px;
+background-color: #cc5830;
+
+}
