@@ -70,7 +70,6 @@ h2 {
   border-radius: 20px;
   border: 2px solid #cc5830;
   margin: 20px;
-  
 }
 .image {
   width: 25%;
@@ -111,23 +110,27 @@ footer {
   top: 70px;
   right: 90px;
   color: grey;
-  height: 30px;
+  height: 20px;
+  width: 40px;
+  border: 2px grey solid;
+  padding: 4px;
+  border-radius: 4px;
 }
 .footer-home {
   display: flex;
   justify-content: center;
 }
-.view-button{
+.view-button {
   width: 20%;
   padding-left: 300px;
 }
-.merchkopie{
+.merchkopie {
   position: relative;
   width: 50%;
   margin: 100px;
-left: 290px;
+  left: 290px;
 }
-h4{
+h4 {
   display: flex;
   justify-content: center;
   position: relative;
@@ -135,15 +138,14 @@ h4{
   font-size: 40px;
   margin: 10px;
 }
-.merchbox{
-border:#cc5830 solid 2px;
-position: relative;
-top: 50px;
-width: 200px;
-display: flex;
-justify-content: center;
-border-radius: 40px;
-left: 70px;
-background-color: #cc5830;
-
+.merchbox {
+  border: #cc5830 solid 2px;
+  position: relative;
+  top: 50px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  border-radius: 40px;
+  left: 70px;
+  background-color: #cc5830;
 }
