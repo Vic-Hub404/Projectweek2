@@ -64,11 +64,13 @@ h2 {
   width: 400px;
   position: relative;
   left: 900px;
-  bottom: 225px;
+  bottom: 375px;
   background-color: #cc5830;
   padding: 20px;
   border-radius: 20px;
   border: 2px solid #cc5830;
+  margin: 20px;
+  
 }
 .image {
   width: 25%;
